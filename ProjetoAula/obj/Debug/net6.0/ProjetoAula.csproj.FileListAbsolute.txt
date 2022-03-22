@@ -1,0 +1,15 @@
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\bin\Debug\net6.0\ProjetoAula.exe
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\bin\Debug\net6.0\ProjetoAula.deps.json
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\bin\Debug\net6.0\ProjetoAula.runtimeconfig.json
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\bin\Debug\net6.0\ProjetoAula.dll
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\bin\Debug\net6.0\ProjetoAula.pdb
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ProjetoAula.csproj.AssemblyReference.cache
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ProjetoAula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ProjetoAula.AssemblyInfoInputs.cache
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ProjetoAula.AssemblyInfo.cs
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ProjetoAula.csproj.CoreCompileInputs.cache
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ProjetoAula.dll
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\refint\ProjetoAula.dll
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ProjetoAula.pdb
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ProjetoAula.genruntimeconfig.cache
+D:\Programacao\Maratona C#\Aula Teste\ProjetoAula\ProjetoAula\obj\Debug\net6.0\ref\ProjetoAula.dll
