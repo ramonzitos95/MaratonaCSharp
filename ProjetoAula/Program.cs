@@ -1,13 +1,11 @@
-﻿using ProjetoAula;
+﻿
+using ProjetoAula;
 
-var casaNova = new Casa(200, "Amarela");
+var casa = new Casa();
 
-Console.WriteLine($"A cor da casa é: {casaNova.Cor}");
+var area = casa.CalcularAreaCasa(30, 50);
+Console.WriteLine($"A área da casa é {area}");
 
-var casaVelha = new Casa(175, "Azul");
-
-Console.WriteLine($"A cor da casa velha é: {casaVelha.Cor}");
-
-var casaNova2 = new Casa(200, "Amarela", 2, 5);
-
-Console.WriteLine($"A qtd de portas é: {casaNova2.QuantidadeDePortas}");
+var casa2 = new Casa();
+var area2 = casa.CalcularAreaCasa(50, 20);
+Console.WriteLine($"A área da casa é {area2}");
