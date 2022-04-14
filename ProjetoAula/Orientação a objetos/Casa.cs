@@ -15,6 +15,26 @@ namespace ProjetoAula
         public decimal ValorCasa { get; set; }
         public bool CasaAlugada { get; set; }
 
+        public Casa()
+        {
+                
+        }
+
+        public Casa(int tamanho, string cor)
+        {
+            Tamanho = tamanho;
+            Cor = cor;
+        }
+
+        public Casa(int tamanho, string cor, int quantidadeDePortas, int quantidadeDeJanelas)
+        {
+            Tamanho = tamanho;
+            Cor = cor;
+            QuantidadeDePortas = quantidadeDePortas;
+            QuantidadeDeJanelas = quantidadeDeJanelas;
+        }
+
+
         public void VenderCasa()
         {
             Console.WriteLine("A casa foi vendida");
