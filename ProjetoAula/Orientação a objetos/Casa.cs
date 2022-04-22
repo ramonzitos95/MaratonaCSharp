@@ -14,6 +14,7 @@ namespace ProjetoAula
         public int QuantidadeDeJanelas { get; set; }
         public decimal ValorCasa { get; set; }
         public bool CasaAlugada { get; set; }
+        public static int QuantidadeMoradores  { get; set; }
 
         public Casa()
         {

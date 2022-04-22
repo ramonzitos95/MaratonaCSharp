@@ -1,11 +1,10 @@
 ﻿
-using ProjetoAula;
+using ProjetoAula.Orientação_a_objetos;
 
-var casa = new Casa();
+MoradorCasa.Idade = 20;
+MoradorCasa.NomeMorador = "João";
+MoradorCasa.SobrenomeMorador = "Ferreira";
 
-var area = casa.CalcularAreaCasa(30, 50);
-Console.WriteLine($"A área da casa é {area}");
+Console.WriteLine($"O nome do morador é: {MoradorCasa.NomeMorador} {MoradorCasa.SobrenomeMorador}");
+Console.WriteLine($"A idade dele é: {MoradorCasa.Idade}");
 
-var casa2 = new Casa();
-var area2 = casa.CalcularAreaCasa(50, 20);
-Console.WriteLine($"A área da casa é {area2}");
