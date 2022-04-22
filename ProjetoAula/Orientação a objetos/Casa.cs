@@ -15,10 +15,13 @@ namespace ProjetoAula
         public decimal ValorCasa { get; set; }
         public bool CasaAlugada { get; set; }
         public static int QuantidadeMoradores  { get; set; }
+        public  int NumeroTelhas { get; set; } = 200;
+        private readonly int NumeroTelhas2;
+        public int TamanhoDoTerreno { private get;  set; }
 
         public Casa()
         {
-                
+            NumeroTelhas2 = 100;
         }
 
         public Casa(int tamanho, string cor)
