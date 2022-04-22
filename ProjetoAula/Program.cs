@@ -1,10 +1,13 @@
 ﻿
-using ProjetoAula.Orientação_a_objetos;
+using ProjetoAula;
 
-MoradorCasa.Idade = 20;
-MoradorCasa.NomeMorador = "João";
-MoradorCasa.SobrenomeMorador = "Ferreira";
+var casa = new Casa(4, false, 200, "Vermelha");
 
-Console.WriteLine($"O nome do morador é: {MoradorCasa.NomeMorador} {MoradorCasa.SobrenomeMorador}");
-Console.WriteLine($"A idade dele é: {MoradorCasa.Idade}");
+Console.WriteLine($"O tamanho da casa é: {casa.Tamanho}");
+Console.WriteLine($"A cor da casa é: {casa.Cor}");
+
+var casa2 = new Casa(casaAlugada:false, quantidadeDePortas: 4);
+Console.WriteLine($"A casa2 está alugada?: {casa2.CasaAlugada}");
+Console.WriteLine($"A quantidade de portas da casa 2 é: {casa2.QuantidadeDePortas}");
+
 

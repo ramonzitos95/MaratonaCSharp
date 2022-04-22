@@ -35,6 +35,14 @@ namespace ProjetoAula
             QuantidadeDeJanelas = quantidadeDeJanelas;
         }
 
+        public Casa(int quantidadeDePortas, bool casaAlugada, int tamanho = 100, string cor = "Amarela")
+        {
+            QuantidadeDePortas = quantidadeDePortas;
+            CasaAlugada = casaAlugada;
+            Tamanho = tamanho;
+            Cor = cor;
+        }
+
 
         public void VenderCasa()
         {
