@@ -57,10 +57,10 @@ namespace ProjetoAula
             Console.WriteLine("A casa foi alugada");
         }
 
-        public int CalcularAreaCasa(int largura, int comprimento)
+        public void CalcularAreaCasa(int largura, int comprimento)
         {
             Tamanho = largura * comprimento;
-            return Tamanho;
+            Console.WriteLine($"A área da casa é: {Tamanho}");
         }
 
         
